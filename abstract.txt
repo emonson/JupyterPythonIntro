@@ -1,0 +1,5 @@
+Python for Data Science: R isn’t the only game in town!
+
+Python is an extremely useful, general purpose, human readable programming language, and it’s a great option for tabular data gathering, cleaning, analysis and visualization! In this introductory workshop, you’ll get a glimpse of how to use Jupyter notebooks and Python to transform and explore a couple of different data sets in reproducible ways using online tools. 
+
+You should only need to bring a laptop with a web browser for this workshop, but we recommend that you try out the Jupyter Container available at the OIT Docker Containers site (https://vm-manage.oit.duke.edu/containers) before you arrive. Email askdata@duke.edu if you have any trouble accessing Jupyter from the link above.
